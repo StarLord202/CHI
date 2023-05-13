@@ -63,7 +63,7 @@ To use trained model execute inference.py
 
 ----Additional Info----
 
-email: jdackdack@gmail.com
+
 link to github ipynb with training process https://github.com/StarLord202/CHI/blob/main/CHI.ipynb
 
 
